@@ -1,0 +1,24 @@
+[
+    {
+        "question_text": "What is the primary focus of Artificial Intelligence?",
+        "options": [
+            "Creating human-like robots",
+            "Developing systems to simulate human intelligence",
+            "Building advanced hardware",
+            "Replacing human labor"
+        ],
+        "correct_option": 2,
+        "difficulty": "Easy"
+    },
+    {
+        "question_text": "Which of the following best describes an intelligent agent?",
+        "options": [
+            "A device that performs mechanical tasks",
+            "A system that perceives its environment and acts to achieve goals",
+            "A program designed to display static data",
+            "A robot with human-like appearance"
+        ],
+        "correct_option": 2,
+        "difficulty": "Moderate"
+    },
+]
